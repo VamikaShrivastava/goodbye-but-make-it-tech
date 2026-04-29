@@ -1,6 +1,6 @@
 # 👋 goodbye-but-make-it-tech
 
-> 💼 Quit my job. Built a chatbot. No regrets.
+> 💼 Quit my job. Built a chatbot.
 
 On my last day at my first job, instead of sending a boring farewell email, I built a **personalised farewell chatbot** for my teammates. Each colleague could enter the last 4 digits of their phone number and receive a custom goodbye message written just for them. Because some goodbyes deserve to be special. 🥹
 
